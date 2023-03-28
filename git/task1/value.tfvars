@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+ami_instance = "ami-0f8ca728008ff5af4"
+instance_type = "t2.micro"
+instance_name = "prob_instance"
+key_pair = "Demokeypair"
